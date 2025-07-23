@@ -60,7 +60,9 @@ It does not store any CV data and re-evaluates only what is uploaded.
 Inspired by AI use cases in HR — not affiliated with any third-party tool.
 
 ## Credits
-Developed by Abdullah Muslim
+Developed by Abdullah Muslim, Team Lead Data & BI, Gallup Pakistan
 
 For queries or collaboration:
-abdullahmuslim1412@gmail.com
+dashboards@galluppakistandigitalanalytics.com
+
+**This tool is free for public use. Attribution and credits are highly appreciated.**
